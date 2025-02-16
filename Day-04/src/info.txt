@@ -1,0 +1,3 @@
+Hello world this is programming class.
+We are here to learn.
+We may use practice methods here to evolve and learn.
